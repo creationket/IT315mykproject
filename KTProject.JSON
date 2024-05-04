@@ -1,0 +1,70 @@
+{
+    KTProject:  [
+    {
+        "KTName": "CPU (i5 14600K)",
+        "KTDescription": "Unlocked Intel Core i5 desktop processors are optimized for gamers and productivity to help deliver high performance.",
+        "KTAmazon": "$309.00",
+        "KTWalmart": "$319.00",
+        "KTTarget": "unavailable",
+        "KTAmazonWeb": "https://www.amazon.com/i5-14600K-Desktop-Processor-Integrated-Graphics/dp/B0CGJ9STNF/ref=sr_1_3?crid=BCF9G85ALMVF&dib=eyJ2IjoiMSJ9.pF-fJow6oLEf-vcCCHMqqczZTU4JLlCdnC-Hkad5SM-ONadVsjfZIFP7leRUfaSM3F54i316825s18Q8uM35f8Lc6U9eP5BG2ALbgapnHyxcRF6JxTVWvrwVsjTcjN5eGWC3Djj9P8VAcRdaxAwWCc_LFqy-9udU-yPGCB05VQatp8-6puPWajIyTSCbMU_-YwktmDtGkagVtRtS73PTYVr_yCrpFPZholHQhe2pk8s.FjphxwIZbQYtlPNxEYmLV3Sp7KQ9Q447-qMSDJD0MGg&dib_tag=se&keywords=i5%2B14600k&qid=1711843258&sprefix=i5%2B146%2Caps%2C52&sr=8-3&th=1",
+        "KTWalmartWeb": "https://www.walmart.com/ip/Intel-Core-i5-14600K-Core-i5-14th-Gen-14-Core-6P-8E-LGA-1700-125W-Intel-UHD-Graphics-770-Processor-Boxed-BX8071514600K/5117652215?from=/search",
+        "KTTargetWeb": "https://www.target.com/s?searchTerm=i5+14600K&tref=typeahead%7Cterm%7Ci5+14600K%7C%7C%7Chistory",
+        "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/CPU.webp"
+    },
+    {
+        "KTName": "CPU cooler (Cooler Master Hyper 212)",
+        "KTDescription": "The black coated heat pipes maintain unhindered heat conductivity with a stunning black finish.",
+        "KTAmazon": "$30.99",
+        "KTWalmart": "$55.95",
+        "KTTarget": "Unavailable",
+        "KTAmazonWeb": "https://www.amazon.com/Cooler-Master-Aluminum-LGA1700-RR-S4KK-20PA-R1/dp/B0BRBWL38D/ref=sr_1_3?crid=QG5AZKXITLF&dib=eyJ2IjoiMSJ9.QxlkMP-MzUAqH1sVxpMOtJMVuvTHmtcsgtJyPoisVzznriuZ46QFzFs5u47NiP0aKPwXQvkp5NcUPWsL02DuwJyW-i1jJuc9O0QRz72Wd0SdHxYKuiPrjlCB32jRYody1Ru19TeDfLWz3VGl7QPTbozfYu_Xg92-qbnZrhMUJgt-nfiKdV8mepvQpKwN6pO-vaN6cX-Zy3ohv0g27kBFFryPqciII04z7s0u0EkVLlU.dgjHgtK_Tub4issXFAGwpeAmI4kwLQMs_JRRO1LXbNg&dib_tag=se&keywords=cpu%2Bcooler&qid=1711781278&sprefix=cpu%2Bcooler%2Caps%2C64&sr=8-3&th=1",
+        "KTWalmartWeb": "https://www.walmart.com/ip/Cooler-Master-Hyper-212-Halo-Black-CPU-Air-Cooler-MF120-Halo-Fan-Dual-Loop-ARGB-Aluminum-Top-Cover-4-Copper-Heat-Pipes-154mm-H-AMD-Ryzen-AM5-AM4-Inte/2076415179?from=/search",
+        "KTTargetWeb": "https://www.target.com/s?searchTerm=cooler+master&tref=typeahead%7Cterm%7Ccooler+master%7C%7C%7Chistory",
+        "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/cooler.jpeg"
+    },
+    {
+        "KTName": "RAM (CORSAIR Vengeance LPX)",
+        "KTDescription": "VENGEANCE LPX memory is designed for high-performance overclocking.",
+        "KTAmazon": "$40.99",
+        "KTWalmart": "$44.99",
+        "KTTarget": "Unavailable",
+        "KTAmazonWeb": "https://www.amazon.com/Corsair-Vengeance-PC4-28800-Desktop-Memory/dp/B07RM39V5F/ref=sr_1_3?crid=2R1NWY4I7U7C&dib=eyJ2IjoiMSJ9.Ig-fQYOOIg7Vu2AXLWqcjoMTzM4FXFt7_gID2KOQBf9wCIbAZWYFf3zxnRcROOVOQy90t_2qBAbhezFNLGwURRQlZvNxPK4pR5bE7YgKvC5FWXy40s-SlMDrbeb5d7VTdu6vB9Hiiotfh-G7KSE5KZCVJJdtfIpu5AJLFPBf6y1OuIJwkW1l-0xefO9UX6wprbNnfQPqTr2mQua5I-I4wETh5b3LIapcLeBfcl1cgFc.0ot16-eNfcp35xzNigYW23zrKKNdFb8GAt0BmgqDEZQ&dib_tag=se&keywords=RAM&qid=1711781569&sprefix=ram%2Caps%2C74&sr=8-3&th=1",
+        "KTWalmartWeb": "https://www.walmart.com/ip/CORSAIR-Vengeance-LPX-16GB-2-x-8GB-288-Pin-PC-RAM-DDR4-3200-PC4-25600-Desktop-Memory-Model-CMK16GX4M2B3200C16/47739389?athbdg=L1600&from=/search",
+        "KTTargetWeb": "https://www.target.com/s?searchTerm=Corsair+Vengeance+LPX&tref=typeahead%7Cterm%7CCorsair+Vengeance+LPX%7C%7C%7Chistory",
+        "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/ram.jpeg"
+    },
+     {
+        "KTName": "MotherBoard (MSI PRO Z790)",
+        "KTDescription": "Users who care about productivity and efficiency can definitely count on the MSI PRO Series to assist you with multitasking and increasing efficiency.",
+        "KTAmazon": "$219.99",
+        "KTWalmart": "$236.99",
+        "KTTarget": "$229.00",
+        "KTAmazonWeb": "https://www.amazon.com/MSI-ProSeries-Motherboard-Supports-Processors/dp/B0BHC3VHHG/ref=sr_1_2?crid=TMYCPWT4PGRA&dib=eyJ2IjoiMSJ9.bCRSZrcZ4FIqEPP3uykWaF4wQiq89K3hvFp-YosfW18tT_3ta10raVKmjeZOuREkGmVBvlYge-zrlsRjmPn2714up0QuZEAleDKca8abbHYpW-CgTTLXk8uyeS0h-h-jHc5ZIVzfS_9Fx9zu9wKNBKcZU1-w4mrdPtrtHVMH_ziw9uUMoJH6_qhawvBGWKrCTqjRk6aZOHxsZ4PcM9JMRIZe8YowMBe2vhcihhH7U9g.iGpy-6pUNOWMX_AVh9dwQUg7Wr4Od08frZZjyON0vF0&dib_tag=se&keywords=MSI+PRO+Z790&qid=1711781877&sprefix=msi+pro+z790%2Caps%2C97&sr=8-2",
+        "KTWalmartWeb": "https://www.walmart.com/ip/MSI-PRO-Z790-A-WIFI-LGA-1700-Intel-Z790-SATA-6Gb-s-DDR5-ATX-Motherboard/1585632127?from=/search",
+        "KTTargetWeb": "https://www.target.com/p/msi-z790-p-wifi-desktop-motherboard-intel-z790-chipset-socket-lga-1700-atx/-/A-88327211#lnk=sametab",
+        "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/mother.jpeg"
+    },
+    {
+        "KTName": "Power Supply (MSI MAG A850GL)",
+        "KTDescription": "A Full bridge DC to DC design achieves higher conversion efficiency, stabler output voltage, and quicker voltage adjustment for different usage scenarios.",
+        "KTAmazon": "$89.99",
+        "KTWalmart": "$89.99",
+        "KTTarget": "Unavailable",
+        "KTAmazonWeb": "https://www.amazon.com/MSI-A850GL-Gaming-Power-Supply/dp/B0CB9MSJ5N/ref=sr_1_3?crid=237KQI36PO1OY&dib=eyJ2IjoiMSJ9.nMufP6uxaSUm24mGfiIMXHb3yPNwMle0lrovOGBF_PvtgUB9pFOW1SZJGnR7pQUIl71cXqxXYf9r9C7-FutaIUYK73--i6a9oAj3FppNczIjVglxx3xN8kqfRlhswnAYP4-S0JJhR73ksvaPoIfmgw.0J3z7dH1_3-9P5Eqf-XCb6ehEvfNlib9D7QrmYEgplc&dib_tag=se&keywords=MSI%2BMAG%2BA850GL&qid=1711782064&sprefix=msi%2Bmag%2Ba850gl%2Caps%2C93&sr=8-3&th=1",
+        "KTWalmartWeb": "https://www.walmart.com/ip/MSI-MAG-A850GL-PCIE5-850W-Power-Supply-Internal-5-V-DC-22-A-3-3-12-25-40-12-0-3-2-5-A-Output-850-W-4-12V-Rails-1-Fan-s-NVIDI/1270814111?athbdg=L1600&from=/search",
+        "KTTargetWeb": "https://www.target.com/s?searchTerm=MSI+MAG+A850GL&tref=typeahead%7Cterm%7CMSI+MAG+A850GL%7C%7C%7Chistory",
+        "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/power.jpeg"
+    },
+    {
+        "KTName": "GPU (GIGABYTE GeForce RTX 4060 Eagle)",
+        "KTDescription": "Ahead of its time, ahead of the game is the GIGABYTE GeForce RTX 4060 EAGLE OC 8G Graphics Cards. Powered by NVIDIA's new RTX architecture.",
+        "KTAmazon": "$309.99",
+        "KTWalmart": "$309.99",
+        "KTTarget": "Unavailable",
+        "KTAmazonWeb": "https://www.amazon.com/GIGABYTE-Graphics-WINDFORCE-GV-N4060EAGLE-OC-8GD/dp/B0C8K441T1/",
+        "KTWalmartWeb": "https://www.walmart.com/ip/GIGABYTE-GeForce-RTX-4060-EAGLE-OC-8G-Graphics-Card-3x-WINDFORCE-Fans-8GB-128-bit-GDDR6-GV-N4060EAGLE-OC-8GD-Video-Card/3724069700?from=/search",
+        "KTTargetWeb": "www.target.com/s?searchTerm=rtx+4060&tref=typeahead%7Cterm%7Crtx+4060%7C%7C%7Chistory&Nao=72&moveTo=product-list-grid",
+        "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/gpu.webp"
+    }
+]
+}
