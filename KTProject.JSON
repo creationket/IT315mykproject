@@ -11,7 +11,7 @@
         "KTWalmartWeb": "https://www.walmart.com/ip/Intel-Core-i5-14600K-Core-i5-14th-Gen-14-Core-6P-8E-LGA-1700-125W-Intel-UHD-Graphics-770-Processor-Boxed-BX8071514600K/5117652215?from=/search",
         "KTTargetWeb": "https://www.target.com/s?searchTerm=i5+14600K&tref=typeahead%7Cterm%7Ci5+14600K%7C%7C%7Chistory",
         "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/CPU.webp"
-        "KTMainImg" 
+        "KTMainImg": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/cpum.jpg"
 },
     {
         "KTName": "CPU cooler (Cooler Master Hyper 212)",
@@ -23,6 +23,7 @@
         "KTWalmartWeb": "https://www.walmart.com/ip/Cooler-Master-Hyper-212-Halo-Black-CPU-Air-Cooler-MF120-Halo-Fan-Dual-Loop-ARGB-Aluminum-Top-Cover-4-Copper-Heat-Pipes-154mm-H-AMD-Ryzen-AM5-AM4-Inte/2076415179?from=/search",
         "KTTargetWeb": "https://www.target.com/s?searchTerm=cooler+master&tref=typeahead%7Cterm%7Ccooler+master%7C%7C%7Chistory",
         "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/cooler.jpeg"
+        "KTMainImg": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/cooler.jpg"
     },
     {
         "KTName": "RAM (CORSAIR Vengeance LPX)",
@@ -34,6 +35,7 @@
         "KTWalmartWeb": "https://www.walmart.com/ip/CORSAIR-Vengeance-LPX-16GB-2-x-8GB-288-Pin-PC-RAM-DDR4-3200-PC4-25600-Desktop-Memory-Model-CMK16GX4M2B3200C16/47739389?athbdg=L1600&from=/search",
         "KTTargetWeb": "https://www.target.com/s?searchTerm=Corsair+Vengeance+LPX&tref=typeahead%7Cterm%7CCorsair+Vengeance+LPX%7C%7C%7Chistory",
         "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/ram.jpeg"
+        "KTMainImg": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/ramm.jpg"
     },
      {
         "KTName": "MotherBoard (MSI PRO Z790)",
@@ -45,6 +47,7 @@
         "KTWalmartWeb": "https://www.walmart.com/ip/MSI-PRO-Z790-A-WIFI-LGA-1700-Intel-Z790-SATA-6Gb-s-DDR5-ATX-Motherboard/1585632127?from=/search",
         "KTTargetWeb": "https://www.target.com/p/msi-z790-p-wifi-desktop-motherboard-intel-z790-chipset-socket-lga-1700-atx/-/A-88327211#lnk=sametab",
         "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/mother.jpeg"
+        "KTMainImg": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/mother.png"
     },
     {
         "KTName": "Power Supply (MSI MAG A850GL)",
@@ -56,6 +59,7 @@
         "KTWalmartWeb": "https://www.walmart.com/ip/MSI-MAG-A850GL-PCIE5-850W-Power-Supply-Internal-5-V-DC-22-A-3-3-12-25-40-12-0-3-2-5-A-Output-850-W-4-12V-Rails-1-Fan-s-NVIDI/1270814111?athbdg=L1600&from=/search",
         "KTTargetWeb": "https://www.target.com/s?searchTerm=MSI+MAG+A850GL&tref=typeahead%7Cterm%7CMSI+MAG+A850GL%7C%7C%7Chistory",
         "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/power.jpeg"
+        "KTMainImg": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/power.png"
     },
     {
         "KTName": "GPU (GIGABYTE GeForce RTX 4060 Eagle)",
@@ -67,6 +71,7 @@
         "KTWalmartWeb": "https://www.walmart.com/ip/GIGABYTE-GeForce-RTX-4060-EAGLE-OC-8G-Graphics-Card-3x-WINDFORCE-Fans-8GB-128-bit-GDDR6-GV-N4060EAGLE-OC-8GD-Video-Card/3724069700?from=/search",
         "KTTargetWeb": "https://www.target.com/s?searchTerm=rtx+4060&tref=typeahead%7Cterm%7Crtx+4060%7C%7C%7Chistory&Nao=72&moveTo=product-list-grid",
         "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/gpu.webp"
+        "KTMainImg": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/gpu.png"
     }
 ],
 "Status":"OK"
