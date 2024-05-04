@@ -62,7 +62,7 @@
         "KTTarget": "Unavailable",
         "KTAmazonWeb": "https://www.amazon.com/GIGABYTE-Graphics-WINDFORCE-GV-N4060EAGLE-OC-8GD/dp/B0C8K441T1/",
         "KTWalmartWeb": "https://www.walmart.com/ip/GIGABYTE-GeForce-RTX-4060-EAGLE-OC-8G-Graphics-Card-3x-WINDFORCE-Fans-8GB-128-bit-GDDR6-GV-N4060EAGLE-OC-8GD-Video-Card/3724069700?from=/search",
-        "KTTargetWeb": "www.target.com/s?searchTerm=rtx+4060&tref=typeahead%7Cterm%7Crtx+4060%7C%7C%7Chistory&Nao=72&moveTo=product-list-grid",
+        "KTTargetWeb": "https://www.target.com/s?searchTerm=rtx+4060&tref=typeahead%7Cterm%7Crtx+4060%7C%7C%7Chistory&Nao=72&moveTo=product-list-grid",
         "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/gpu.webp"
     }
 ]
