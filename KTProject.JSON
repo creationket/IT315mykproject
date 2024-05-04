@@ -1,5 +1,4 @@
-{
-    KTProject:  [
+[
     {
         "KTName": "CPU (i5 14600K)",
         "KTDescription": "Unlocked Intel Core i5 desktop processors are optimized for gamers and productivity to help deliver high performance.",
@@ -67,4 +66,4 @@
         "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/gpu.webp"
     }
 ]
-}
+
