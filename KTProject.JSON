@@ -1,3 +1,5 @@
+{
+"KTproject":
 [
     {
         "KTName": "CPU (i5 14600K)",
@@ -65,5 +67,9 @@
         "KTTargetWeb": "https://www.target.com/s?searchTerm=rtx+4060&tref=typeahead%7Cterm%7Crtx+4060%7C%7C%7Chistory&Nao=72&moveTo=product-list-grid",
         "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/gpu.webp"
     }
-]
+],
+"Status":"OK"
+}
+
+
 
