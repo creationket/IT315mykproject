@@ -11,7 +11,8 @@
         "KTWalmartWeb": "https://www.walmart.com/ip/Intel-Core-i5-14600K-Core-i5-14th-Gen-14-Core-6P-8E-LGA-1700-125W-Intel-UHD-Graphics-770-Processor-Boxed-BX8071514600K/5117652215?from=/search",
         "KTTargetWeb": "https://www.target.com/s?searchTerm=i5+14600K&tref=typeahead%7Cterm%7Ci5+14600K%7C%7C%7Chistory",
         "KTImage": "https://raw.githubusercontent.com/creationket/IT315mykproject/main/CPU.webp"
-    },
+        "KTMainImg" 
+},
     {
         "KTName": "CPU cooler (Cooler Master Hyper 212)",
         "KTDescription": "The black coated heat pipes maintain unhindered heat conductivity with a stunning black finish.",
